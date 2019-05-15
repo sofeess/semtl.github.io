@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Welcome!
 ---
 {% for post in paginator.posts %}
 <div class="post-preview">
@@ -12,9 +13,9 @@ layout: page
         </h3>
         {% endif %}
     </a>
-    <p class="post-meta" style="margin-bottom:5px">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
+    <p class="post-meta" style="margin-bottom:5px">Hosted by {{ post.author }} on {{ post.event_date | date: "%B %-d, %Y" }}</p>
 	<div class="notepad-index-post-tags" style="">
-		{% for tag in post.tags %}<a href="{{ site.baseurl }}/search/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
+		{% for tag in post.tags %}<a href="{{ site.baseurl }}/search/index.html#{{ tag | cgi_encode }}" title="Other posts from the {{ tag | upcase }} tag">{{ tag | upcase }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
 	</div>
 </div>
 <hr>
@@ -35,4 +36,3 @@ layout: page
     {% endif %}
 </ul>
 {% endif %}
-
