@@ -15,8 +15,9 @@ For this event, we will experiment a format with multiple short talks and discus
 ### Program
 
   - 14:30 - 16:00 : _Lightning talks_ and discussions
-    - Teach software engineering using _Island_ (Sébastien Mosser)
+    - Teaching software engineering using _Island_ (Sébastien Mosser)
     - _Identifying conflicts in LLVM_ (Sébastien Michelland)
+    - _Capture of silent security patches and reports_ (Arthur Sawadogo)
     - ...
   - 16:00 - ... : Social encounter at [Benelux](https://goo.gl/maps/L4eQBE9fCq4xoZbF6)
 
