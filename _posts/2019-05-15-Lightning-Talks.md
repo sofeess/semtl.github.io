@@ -17,7 +17,7 @@ For this event, we will experiment a format with multiple short talks and discus
   - 14:30 - 15:00: SE@MTL News (website, next event, ...)
   - 15:00 - 16:00 : _Lightning talks_ and discussions
     - _Teach software engineering using Island_ (Sébastien Mosser)
-    - _Capture of silent security patches and reports_ (Arthur)
+    - _Capture of silent security patches and reports_ (Arthur Sawadogo)
     - _Identifying conflicts in LLVM_ (Sébastien Michelland)
     - _Service Identification to support the migration of legacy systems to SOA_ (Manel Abdellatif)
     - _TBA_ (Mohamed Amine Haddaji)
