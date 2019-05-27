@@ -14,11 +14,15 @@ For this event, we will experiment a format with multiple short talks and discus
 
 ### Program
 
-  - 14:30 - 16:00 : _Lightning talks_ and discussions
-    - Teach software engineering using _Island_ (Sébastien Mosser)
+  - 14:30 - 15:00: SE@MTL News (website, next event, ...)
+  - 15:00 - 16:00 : _Lightning talks_ and discussions
+    - _Teach software engineering using Island_ (Sébastien Mosser)
+    - _Capture of silent security patches and reports_ (Arthur)
     - _Identifying conflicts in LLVM_ (Sébastien Michelland)
+    - _Service Identification to support the migration of legacy systems to SOA_ (Manel Abdellatif)
+    - _TBA_ (Mohamed Amine Haddaji)
     - ...
-  - 16:00 - ... : Social encounter at [Benelux](https://goo.gl/maps/L4eQBE9fCq4xoZbF6)
+  - 16:30 - ... : Social encounter at [Benelux](https://goo.gl/maps/L4eQBE9fCq4xoZbF6)
 
 ### Material
 
