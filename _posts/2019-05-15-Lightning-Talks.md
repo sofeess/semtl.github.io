@@ -24,6 +24,7 @@ Please RSVP before June 4th in [this form](https://docs.google.com/spreadsheets/
     - _Capture of silent security patches and reports_ (Arthur Sawadogo)
     - _Identifying conflicts in LLVM_ (Sébastien Michelland)
     - _Service Identification to support the migration of legacy systems to SOA_ (Manel Abdellatif)
+    - _A Development Framework for Customer Experience Management_ (Imen Benzarti)
     - _TBA_ (Mohamed Amine Haddaji)
     - ...
   - 16:30 - ... : Social encounter at [Benelux](https://goo.gl/maps/L4eQBE9fCq4xoZbF6)
