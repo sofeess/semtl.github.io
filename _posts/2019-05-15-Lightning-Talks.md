@@ -3,20 +3,24 @@ layout:     post
 title:      Lightning Talks at UQAM
 author:     Sébastien Mosser
 tags: 		  UQAM
-subtitle:  	2nd meeting of the SE community
+subtitle:  	2nd meeting of the SE community (06/06/19)
 category:   meeting
 event_date: 2019-06-06
 ---
 
-The second meeting of the SE@MTL community will be hosted by UQAM on thursday June 6th at the [Pavillion Président-Kennedy](https://goo.gl/maps/LZCWb1zNiUon78dP9), room PK-1320.
+The second meeting of the SE@MTL community will be hosted by UQAM on Thursday June 6th at the [Pavillion Président-Kennedy](https://goo.gl/maps/LZCWb1zNiUon78dP9), room PK-1320.
 
 For this event, we will experiment a format with multiple short talks and discussions, to give attendees an overview of what is happening in software engineering in the _Département d'Informatique_.
+
+### Registration
+
+Please RSVP before June 4th in [this form](https://docs.google.com/spreadsheets/d/1IxdCFGugpDGVam2E9h3HrvnKHbjkyB-GAK23KEQj4Nc/edit?usp=sharing).
 
 ### Program
 
   - 14:30 - 15:00: SE@MTL News (website, next event, ...)
   - 15:00 - 16:00 : _Lightning talks_ and discussions
-    - _Teach software engineering using Island_ (Sébastien Mosser)
+    - _Teaching software engineering using Island_ (Sébastien Mosser)
     - _Capture of silent security patches and reports_ (Arthur Sawadogo)
     - _Identifying conflicts in LLVM_ (Sébastien Michelland)
     - _Service Identification to support the migration of legacy systems to SOA_ (Manel Abdellatif)
@@ -24,7 +28,7 @@ For this event, we will experiment a format with multiple short talks and discus
     - ...
   - 16:30 - ... : Social encounter at [Benelux](https://goo.gl/maps/L4eQBE9fCq4xoZbF6)
 
-### Material
+### Slides
 
   - Todo
 
