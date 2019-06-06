@@ -8,7 +8,7 @@ category:   meeting
 event_date: 2019-06-06
 ---
 
-The second meeting of the SE@MTL community will be hosted by UQAM on Thursday June 6th at the [Pavillion Président-Kennedy](https://goo.gl/maps/LZCWb1zNiUon78dP9), room PK-1320.
+The second meeting of the SE@MTL community will be hosted by UQAM on Thursday June 6th at the [Pavillion Président-Kennedy](https://goo.gl/maps/LZCWb1zNiUon78dP9), room PK-R-250.
 
 For this event, we will experiment a format with multiple short talks and discussions, to give attendees an overview of what is happening in software engineering in the _Département d'Informatique_.
 
