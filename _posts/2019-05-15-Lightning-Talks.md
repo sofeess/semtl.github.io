@@ -18,16 +18,21 @@ Please RSVP before June 4th in [this form](https://docs.google.com/spreadsheets/
 
 ### Program
 
-  - 14:30 - 15:00: SE@MTL News (website, next event, ...)
-  - 15:00 - 16:00 : _Lightning talks_ and discussions
-    - _Teaching software engineering using Island_ (Sébastien Mosser)
-    - _Capture of silent security patches and reports_ (Arthur Sawadogo)
-    - _Identifying conflicts in LLVM_ (Sébastien Michelland)
-    - _Service Identification to support the migration of legacy systems to SOA_ (Manel Abdellatif)
-    - _A Development Framework for Customer Experience Management_ (Imen Benzarti)
-    - _TBA_ (Mohamed Amine Haddaji)
-    - ...
-  - 16:30 - ... : Social encounter at [Benelux](https://goo.gl/maps/L4eQBE9fCq4xoZbF6)
+Each lightning talk will length *6 minutes*. Questions and discussions will be grouped at the end of each lightning session, and during the social event.
+
+  - 14:30 - 14:45: SE@MTL News (website, next event, ...)
+  - 14:45 - 16:00 : _Lightning talks_ and discussions
+    - Session #1 (30 minutes)
+      - _Teaching software engineering using Island_ (Sébastien Mosser)
+      - _Capture of silent security patches and reports_ (Arthur Sawadogo)
+      - _Filtering and Interpreting data from IoT systems_ (RAMANANTSOA Tsilavina Mamtina)
+    - Session #2 (20 minutes)
+      - _Validating Hidden Code Dependencies Through Runtime Traces_ (Mohamed Amine Haddaji)
+      - _Identifying conflicts in LLVM_ (Sébastien Michelland)    
+    - Session #3 (20 minutes)
+      - _Service Identification to support the migration of legacy systems to SOA_ (Manel Abdellatif)
+      - _A Development Framework for Customer Experience Management_ (Imen Benzarti)
+  - 16:30 - ... : Social encounter at _To Be Announced_
 
 ### Slides
 
