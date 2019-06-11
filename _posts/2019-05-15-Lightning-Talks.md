@@ -34,6 +34,8 @@ Each lightning talk will length *6 minutes*. Questions and discussions will be g
       - _A Development Framework for Customer Experience Management_ (Imen Benzarti)
   - 16:30 - ... : Social encounter at _To Be Announced_
 
+Some pictures: [https://photos.app.goo.gl/7G95nLUJHg23fqBWA](https://photos.app.goo.gl/7G95nLUJHg23fqBWA)
+
 ### Slides
 
   - [0_kickoff.pdf](/se-mtl/static/2_uqam/0_kickoff.pdf)
