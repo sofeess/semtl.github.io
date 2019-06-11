@@ -36,7 +36,14 @@ Each lightning talk will length *6 minutes*. Questions and discussions will be g
 
 ### Slides
 
-  - Todo
+  - [0_kickoff.pdf](/se-mtl/static/2_uqam/0_kickoff.pdf)
+  - [1_1_TeachingIsland.pdf](/se-mtl/static/2_uqam/1_1_TeachingIsland.pdf)
+  - [1_2_SAWADOGO.pdf](/se-mtl/static/2_uqam/1_2_SAWADOGO.pdf)
+  - [1_3_RAMANANTSOA.pdf](/se-mtl/static/2_uqam/1_3_RAMANANTSOA.pdf)
+  - [2_1_HADDAJI.pdf](/se-mtl/static/2_uqam/2_1_HADDAJI.pdf)
+  - [2_2_Michelland.pdf](/se-mtl/static/2_uqam/2_2_Michelland.pdf)
+  - [3_1_ADELLATIF.pdf](/se-mtl/static/2_uqam/3_1_ADELLATIF.pdf)
+  - [3_2_BENZARTI.pdf](/se-mtl/static/2_uqam/3_2_BENZARTI.pdf)
 
 ### Localisation
 
