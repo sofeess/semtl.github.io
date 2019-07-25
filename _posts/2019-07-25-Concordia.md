@@ -2,7 +2,7 @@
 layout:     post
 title:      SE@MTL 4
 author:     Wahab Hamou-Lhadj
-tags: 		  ETS
+tags: 		  Concordia
 subtitle:  	4th meeting of the SE community (29/08/19)
 category:   meeting
 event_date: 2019-08-29
