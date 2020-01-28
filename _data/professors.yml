@@ -60,3 +60,9 @@
   img: http://www.yann-gael.gueheneuc.net/Work/Info/Files/YannGaelGueheneuc.jpg
   url: http://www.yann-gael.gueheneuc.net/Work/Info/
   bio: Yann-Gaël Guéhéneuc is full professor at the Department of Computer Science and Software Engineering of Concordia University since 2017, where he leads the Ptidej team on evaluating and enhancing the quality of the software systems, focusing on the Internet of Things and researching new theories, methods, and tools to understand, evaluate, and improve the development, release, testing, and security of such systems.
+
+- name: Hamou-Lhadj, Wahab
+  visible: true
+  img: https://users.encs.concordia.ca/~abdelw/assets/img/main/50.jpg
+  url: http://www.ece.concordia.ca/~abdelw
+  bio: I am a Full Professor of Computer and Software Engineering in ECE at Gina Cody School of Engineering and Computer Science, Concordia University. My research focuses on the opportunities at the intersection of Software Engineering and Data Analytics. I am particularly interested in approaches that harness the wealth of information in software traces and logs, process logs, code commits, etc. to support software development and operations, software evolution and analytics, anomaly detection, and operational intelligence tasks. My research has an industrial focus. Over the years, I have led many research and development projects with various organizations including Ericsson, CAE, Ubisoft, Marivent, Opal-RT, and DRDC (Defence R&D Canada).  I am fortunate to work with a great team of talented students and professionals. Together, we evaluate and apply techniques from Software Development and Modeling, Big Data Analytics, and Machine and Deep Learning. Several of our original tools (e.g., CommitAssistant and TotalADS) have been successfully transferred to our collaborators from industry and government and are used by a large number of developers.
