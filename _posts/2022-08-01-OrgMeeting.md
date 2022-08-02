@@ -5,7 +5,7 @@ author:     Bentley James Oakes
 tags: 		  UdeM
 subtitle:  	Kickoff meeting for organisational details (15/08/22)
 category:   meeting
-event_date: 2022-08-02
+event_date: 2022-08-15
 ---
 
 An organisational meeting of the SEMTL community will be at Université de Montréal at Campus MIL, room TBD.
