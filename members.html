@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Faculty"
-description: "Professors member of the SE community in Montreal"
+title: "Members"
+description: "A selection of the professors and post-doctoral researchers involved in the SE community in Montreal"
 ---
 <hr>
 
-{% assign sorted = site.data.professors | sort: 'name' %}
+{% assign sorted = site.data.members | sort: 'name' %}
 
 {% for member in sorted %}
 	{% if member.visible == true %}
@@ -25,9 +25,9 @@ description: "Professors member of the SE community in Montreal"
 
 	</br>
 
-	{% if member.bio %}
+	{% if member.keywords %}
 	<p class="text-justify">
-	{{ member.bio }}
+	{{ member.keywords }}
 	</p>
 	{% endif %}
 

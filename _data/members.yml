@@ -1,0 +1,84 @@
+- name: Mosser, Sébastien
+  visible: false
+  img: https://ace-design.github.io/img/people/seb.png
+  university: Université du Québec à Montréal
+  github: mosser
+  url: https://mosser.github.io/
+
+- name: Sahraoui, Houari
+  visible: true
+  img: http://www.iro.umontreal.ca/~sahraouh/photo_diro.jpg
+  university: Université de Montréal
+  url: http://www.iro.umontreal.ca/~sahraouh/
+  keywords: software engineering, model-driven engineering, SBSE, software visualization, model transformation
+
+- name: Syriani, Eugène
+  visible: true
+  img: http://www-ens.iro.umontreal.ca/~syriani/cside/img/DIRO%20-%20Eugene%20Syriani.jpg
+  university: Université de Montréal
+  url: http://www-ens.iro.umontreal.ca/~syriani/
+  keywords: model-driven engineering, model transformation, simulation
+
+- name: Robillard, Martin
+  visible: false
+  img: https://www.cs.mcgill.ca/~martin/images/martin-may-2017.jpg
+  university: McGill University
+  url: https://www.cs.mcgill.ca/~martin/
+
+- name: Famelis, Michalis
+  visible: true
+  img: https://famelis.files.wordpress.com/2017/07/cropped-img_03801.jpg?w=1380&h=1860
+  university: Université de Montréal
+  url: https://michalis.famelis.info/
+  keywords: model-driven engineering, formal methods, empirical software engineering
+
+- name: Bordeleau, Françis
+  visible: true
+  img: https://www.etsmtl.ca/getmedia/8b040eea-46dd-4ec7-ae37-bd74a6c5e595/francis-bordeleau-ets?width=690&height=460&ext=.jpg
+  university: École de Technologie Supérieure
+  url: https://www.linkedin.com/in/francis-bordeleau-b2aa273/
+  keywords: model-based engineering, open source
+
+- name: Kienzle, Jörg
+  visible: true
+  img: https://www.cs.mcgill.ca/~joerg/Home/Jorgs_Home_files/shapeimage_3.png
+  university: McGill University
+  url: https://www.cs.mcgill.ca/~joerg/Home/Jorgs_Home.html
+  keywords: concern-oriented software development, model-driven engineering, fault tolerance
+
+- name: Mussbacher, Gunter
+  visible: false
+  img: http://www.ece.mcgill.ca/~gmussb1/images/gm2007.jpg
+  university: McGill University
+  url: http://www.ece.mcgill.ca/~gmussb1/
+
+- name: Guéhéneuc, Yann-Gaël
+  visible: false
+  img: http://www.yann-gael.gueheneuc.net/Work/Info/Files/YannGaelGueheneuc.jpg
+  url: http://www.yann-gael.gueheneuc.net/Work/Info/
+
+- name: Hamou-Lhadj, Wahab
+  visible: false
+  img: https://users.encs.concordia.ca/~abdelw/assets/img/main/50.jpg
+  url: http://www.ece.concordia.ca/~abdelw
+
+- name: Oakes, Bentley James
+  visible: true
+  university: Université de Montréal
+  img: https://bentleyjoakes.github.io/assets/images/BentleyJOakes.png
+  url: https://bentleyjoakes.github.io
+  keywords: model transformation, cyber-physical system verification, machine learning, model-driven engineering
+
+- name: Galasso-Carbonnel, Jessie
+  visible: true
+  university: Université de Montréal
+  img: https://jgalasso.github.io/photo.png
+  url: https://jgalasso.github.io/
+  keywords: software and knowledge engineering
+
+- name: David, Istvan
+  visible: true
+  university: Université de Montréal
+  img: https://istvandavid.com/wp-content/uploads/2021/08/istvan-768x768.png
+  url: https://istvandavid.com
+  keywords: model-driven engineering, multi-paradigm modeling, collaborative modeling, simulation, digital twins

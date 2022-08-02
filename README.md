@@ -1,9 +1,15 @@
 # Software Engineering at Montreal Website
 
-This website is forked from [Projet Pages](https://github.com/projectpages/project-pages/wiki/). It uses jekyll, and is hosted by github pages.
+This website is forked from [Project Pages](https://github.com/projectpages/project-pages/wiki/). It uses jekyll, and is hosted by github pages.
 
 ## Contribute
 
-### Add a new event
+Please make pull requests to contribute events or members. For all other concerns, use the issue tracker.
+
+### To add a new event
+
+Create a Markdown page under the `_posts` folder.
 
 ### Add a new member
+
+Add the member to the `members.yml` file in the `_data` folder.
