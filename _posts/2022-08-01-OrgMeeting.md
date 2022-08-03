@@ -8,20 +8,23 @@ category:   meeting
 event_date: 2022-08-15
 ---
 
-An organisational meeting of the SEMTL community will be at Université de Montréal at Campus MIL, room TBD.
+An organisational meeting of the SEMTL community will be on **August 15th, 2022**. It will take place at **Campus MIL, Université de Montréal, room TBD**.
+
+As an agenda, we envision that each software engineering researcher attending describe themselves in a short (two-sentence) introduction. Discussions follow on possible meeting formats, ideas for the website, possible industrial involvement in SEMTL, structure of the organising committee, visions for SEMTL, etc.
+
+The point of this discussion is to hear different viewpoints on how SEMTL should be organised, and what short/medium/long- term objectives are relevant to the community. Another outcome is to discover participants interested in organising meetings and SEMTL itself. 
 
 ### Registration
 
-Please RSVP before 2022-08-08 in [this form](https://docs.google.com/spreadsheets/d/1fG5uRQbvPufsGLUAnelnuzTSneUVe6L1RDAD7ZTWeIE/edit?usp=sharing).
+Please RSVP before 2022-08-08 using [this form](https://docs.google.com/spreadsheets/d/1fG5uRQbvPufsGLUAnelnuzTSneUVe6L1RDAD7ZTWeIE/edit?usp=sharing).
 
 Note that the keyword field will be used to make a word cloud for the meeting, so please spend a minute filling it out.
 
 ### Program
 
 * 14:00 – 14:30: Introductions
-* 14:30 - 16:00: Discussions about SEMTL organisation
+* 14:30 - 16:00: Discussions about SEMTL organisation (with coffee breaks)
 * 16:00 - ... : Social event at local establishment (perhaps [Taverne Atlantic](https://www.taverneatlantic.com/) or [Vices & Versa](https://vicesetversa.com/))
-
 
 ### Slides
 
