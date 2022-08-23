@@ -26,9 +26,10 @@ Note that the keyword field will be used to make a word cloud for the meeting, s
 * 14:30 - 16:00: Discussions about SEMTL organisation (with coffee breaks)
 * 16:00 - ... : Social event at local establishment (perhaps [Taverne Atlantic](https://www.taverneatlantic.com/) or [Vices & Versa](https://vicesetversa.com/))
 
-### Slides
+### Slides and Notes
 
-- To follow after the meeting
+- [Slides](static/10_org_meeting/semtl_org_meeting.pdf)
+- [Notes](static/10_org_meeting/semtl_orgmeeting_notes.txt)
 
 ### Localisation
 

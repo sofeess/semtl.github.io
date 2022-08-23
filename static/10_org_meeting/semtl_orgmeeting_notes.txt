@@ -1,0 +1,39 @@
+SEMTL Organization Meeting
+August 15th, 2022
+
+Present:
+- Martin Robillard
+- Houari Sahraoui
+- Diego Elias Costa
+- Mohammad Sayagh
+- Heng Li
+- Bentley James Oakes
+- Jessie Galasso
+
+- Community, Collaboration, Competition
+ - Software engineering most likely regroups the largest number of researchers in Montreal, but it lacks organization.
+ - The importance of the SE group of Montreal is probably more known ... outside Montreal
+ - FQRT / regroupement stratégique? -> objective for the next year?
+ - Chicken-and-egg problem: we need to have a group organized enough to have the support from the universities, need the support from the universities to manage to organize the group more formally
+ - If we manage to regroup info about 50 SE profs from Montreal and their publications, this could show to the universities why it is important to support the creation of a SE group in Montreal
+ - Probably needs a senior researcher dedicated to developing such organization?
+
+. Schedule
+ - Two meetings per term (to be more flexible on the dates), with the two hosting groups selected in advance.
+ - Maybe one bigger event per year? (one full day for instance)
+
+. Format
+ - One keynote + Two technical talks?
+ - Posters (when time allows, for bigger meetings?)
+ - Idea: researchers could register with their talk info and other members could vote for the talks they want to hear
+   - Through website?
+
+. Organisation
+ - steering committee
+ - org committee (students and postdocs. To update the website, coordinate information, maybe organise the one-year event?)
+
+. Industry:
+ - truly engaging with industry is difficult
+ - IVADO and SEMLA are already doing that
+ - SE@MTL covers a lot of topics. If at some points we realize we have cluster on some keywords, we can then target industries with specific topics.
+ - We could build a catalog of expertise for e.g., consulting, industry.
