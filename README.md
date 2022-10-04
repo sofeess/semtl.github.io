@@ -1,6 +1,6 @@
 # Software Engineering at Montreal Website
 
-This website is forked from [Project Pages](https://github.com/projectpages/project-pages/wiki/). It uses jekyll, and is hosted by github pages.
+This website is forked from [Project Pages](https://github.com/projectpages/project-pages/wiki/). It uses jekyll, and [is hosted by github pages](https://semtl.github.io/).
 
 ## Contribute
 
