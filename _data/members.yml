@@ -1,3 +1,10 @@
+- name: Schiedermeier, Maximilian
+  visible: true
+  img: https://www.cs.mcgill.ca/~mschie3/assets/img/max.png
+  university: McGill University
+  github: kartoffelquadrat
+  url: https://www.cs.mcgill.ca/~mschie3/
+
 - name: Mosser, Sébastien
   visible: false
   img: https://ace-design.github.io/img/people/seb.png
