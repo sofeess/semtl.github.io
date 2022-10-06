@@ -19,6 +19,6 @@ A regular meeting of <b>software engineering researchers and practitioners</b>, 
 
 The SEMTL community uses a Google Group as a support to broadcast meeting announcements and other news. The first step to join the community is to join the group!
 
-  * [https://groups.google.com/forum/#!forum/semtl](https://groups.google.com/forum/#!forum/semtl)
+  * [https://groups.google.com/g/semtl](https://groups.google.com/g/semtl)
 
 [//]: # (If you are a professor and want to be listed on the _Members_ pages, send an email to [Sébastien Mosser]&#40;mosser.sebastien@uqam.ca&#41; with the relevant information &#40;name, website, university, picture url, ...&#41;)
