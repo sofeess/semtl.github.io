@@ -3,3 +3,7 @@ _site
 node_modules
 Gemfile*
 **.DS_Store
+
+scripts/*.png
+scripts/*.tsv
+scripts/*.txt
