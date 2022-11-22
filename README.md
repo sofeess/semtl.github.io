@@ -13,3 +13,7 @@ Create a Markdown page under the `_posts` folder.
 ### Add a new member
 
 Add the member to the `members.yml` file in the `_data` folder.
+
+### Inspect keywords
+
+Jupyter notebook instruction for RSVP keywoard visualization is [here](https://github.com/SEMTL/semtl.github.io/blob/gh-pages/scripts/KeywordViz.ipynb)
