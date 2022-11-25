@@ -90,3 +90,10 @@
   img: https://istvandavid.com/wp-content/uploads/2021/08/istvan-768x768.png
   url: https://istvandavid.com
   keywords: model-driven engineering, multi-paradigm modeling, collaborative modeling, simulation, digital twins
+
+- name: Diego Elias, Costa
+  visible: true
+  university: Université du Québec à Montréal (UQAM)
+  img: https://diegoeliascosta.github.io/assets/images/diegoeliascosta.jpeg
+  url: https://diegoeliascosta.github.io
+  keywords: software maintenance and evolution, dependency management, performance engineering, SE4AI
