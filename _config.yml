@@ -1,7 +1,8 @@
 # Site settings
-title: Software Engineering at Montreal
-description: ""
 url: "https://semtl.github.io/"
+title: Software Engineering at Montreal
+description: "About SEMTL - Meetings of the software engineering research community in Montreal, Canada"
+site_tags: [SEMTL,SE@MTL,SE,software engineering, Montreal]
 
 
 # Secondary Parameters
