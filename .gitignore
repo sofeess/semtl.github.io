@@ -7,3 +7,4 @@ Gemfile*
 scripts/*.png
 scripts/*.tsv
 scripts/*.txt
+scripts/.ipynb_checkpoints/*
