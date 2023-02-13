@@ -38,14 +38,14 @@ Some pictures: [https://photos.app.goo.gl/7G95nLUJHg23fqBWA](https://photos.app.
 
 ### Slides
 
-  - [0_kickoff.pdf](/se-mtl/static/2_uqam/0_kickoff.pdf)
-  - [1_1_TeachingIsland.pdf](/se-mtl/static/2_uqam/1_1_TeachingIsland.pdf)
-  - [1_2_SAWADOGO.pdf](/se-mtl/static/2_uqam/1_2_SAWADOGO.pdf)
-  - [1_3_RAMANANTSOA.pdf](/se-mtl/static/2_uqam/1_3_RAMANANTSOA.pdf)
-  - [2_1_HADDAJI.pdf](/se-mtl/static/2_uqam/2_1_HADDAJI.pdf)
-  - [2_2_Michelland.pdf](/se-mtl/static/2_uqam/2_2_Michelland.pdf)
-  - [3_1_ADELLATIF.pdf](/se-mtl/static/2_uqam/3_1_ADELLATIF.pdf)
-  - [3_2_BENZARTI.pdf](/se-mtl/static/2_uqam/3_2_BENZARTI.pdf)
+  - [0_kickoff.pdf](/slides/2019-06-06/0_kickoff.pdf)
+  - [1_1_TeachingIsland.pdf](/slides/2019-06-06/1_1_TeachingIsland.pdf)
+  - [1_2_SAWADOGO.pdf](/slides/2019-06-06/1_2_SAWADOGO.pdf)
+  - [1_3_RAMANANTSOA.pdf](/slides/2019-06-06/1_3_RAMANANTSOA.pdf)
+  - [2_1_HADDAJI.pdf](/slides/2019-06-06/2_1_HADDAJI.pdf)
+  - [2_2_Michelland.pdf](/slides/2019-06-06/2_2_Michelland.pdf)
+  - [3_1_ADELLATIF.pdf](/slides/2019-06-06/3_1_ADELLATIF.pdf)
+  - [3_2_BENZARTI.pdf](/slides/2019-06-06/3_2_BENZARTI.pdf)
 
 ### Localisation
 
