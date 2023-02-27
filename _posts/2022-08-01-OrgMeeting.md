@@ -28,8 +28,8 @@ Note that the keyword field will be used to make a word cloud for the meeting, s
 
 ### Slides and Notes
 
-- [Slides](/slides/2022-08-15/semtl_org_meeting.pdf)
-- [Notes](/slides/2022-08-15/semtl_orgmeeting_notes.txt)
+- [Slides](https://semtl.github.io/slides/2022-08-15/semtl_org_meeting.pdf)
+- [Notes](https://semtl.github.io/slides/2022-08-15/semtl_orgmeeting_notes.txt)
 
 ### Localisation
 
