@@ -16,7 +16,7 @@ It will take place at **Polytechnique Montréal, Pavillons Lassonde
 
 ### Registration
 
-Please RSVP using [this spreadsheet](https://docs.google.com/spreadsheets/d/1fG5uRQbvPufsGLUAnelnuzTSneUVe6L1RDAD7ZTWeIE/edit#gid=1576283650).
+Please RSVP using [this spreadsheet](https://docs.google.com/spreadsheets/d/1fG5uRQbvPufsGLUAnelnuzTSneUVe6L1RDAD7ZTWeIE/edit#gid=2050364703).
 
 ### Program
 
