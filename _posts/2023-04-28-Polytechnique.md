@@ -18,27 +18,20 @@ It will take place at **Polytechnique Montréal, Pavillons Lassonde
 
 Please RSVP using [this spreadsheet](https://docs.google.com/spreadsheets/d/1fG5uRQbvPufsGLUAnelnuzTSneUVe6L1RDAD7ZTWeIE/edit#gid=2050364703).
 
-### Program
+### (Tentative) Program
 
-To follow...
-
-[//]: # (* 15:00-15:30 -- Keynote by **Ali Ouni** - _The Next Generation of AI Applications to Software Engineering: Challenges and Opportunities_)
-
-[//]: # (* 15:30-15:40 -- Lightning talk by **Ali Arabat** - _On the co-evolution of components in a multi-component system - A case study on OpenStack_)
-
-[//]: # (* 15:40-15:50 -- Lightning talk by **Moataz Chouchen** - _On the Prediction of Code Review Completion Time in Modern Code Review_)
-
-[//]: # (* 15:50-16:00 -- Lightning talk by **Ikram Darif** - _A template-based approach for ARINC-653 requirements specification_)
-
-[//]: # (* 16:00-16:10 -- Lightning talk by **Samah Kanssab** - _The impact of outliers on ML4SE_)
-
-[//]: # (* 16:10-16:20 -- Lightning talk by **Issam Sedki** - _The problem of log parsing and what we can do about it_)
-
-[//]: # (* 16:20-16:30 -- Lightning talk by **Imen Trabelsi** - _Microservice Identication Approach using ML and Semantic Analysis_)
-
-[//]: # (* 16:30-17:00 -- Open discussion )
-
-[//]: # (* 17:00-onward -- Social encounter at [Resto-Pub Le 100 génies]&#40;https://goo.gl/maps/RAFCocnZ2RGtwwWj9&#41;)
+- 14:30 - 15:10 -- Research Talk by **Ettore Merlo**: On reliability and robustness of machine learning
+- 15:10 - 15:20 -- Coffee Break
+- 15:20 - 16:20 -- Lightning Talks (10 minutes each)
+  - 15:20 - 15:30 -- **Arghavan Sanei** - _Characterizing Usability Issue Discussions in Open Source Software Projects_
+  - 15:30 - 15:40 -- **Seif Abukhalaf** - _On Codex Prompt Engineering for OCL Generation: An Empirical Study_
+  - 15:40 - 15:50 -- **Zhenyu**/**Yassir** - _Machine learning robustness by likelihood_
+  - 15:50 - 16:00 -- **Mahta** - _On the role of creativity in software engineering tasks_
+  - 16:00 - 16:10 -- **Tambon Florian** - _Mutation Testing in Deep Reinforcement Learning_
+  - 16:10 - 16:20 -- **Xingfang Wu** - _Representation Learning for Heterogeneous Software-related Textual Data_
+- 16:20 - 16:30 -- Coffee Break
+- 16:30 - 17:00 -- Open Discussion
+- 17:00 onwards -- Social Event - (nearby the Cote-Des-Neiges metro station)
 
 ### Localisation
 
