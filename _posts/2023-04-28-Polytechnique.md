@@ -20,13 +20,13 @@ Please RSVP using [this spreadsheet](https://docs.google.com/spreadsheets/d/1fG5
 
 ### (Tentative) Program
 
-- 14:30-15:10 -- Research Talk by **Ettore Merlo**: _On reliability and robustness of machine learning_
+- 14:30-15:10 -- Research Talk by **Ettore Merlo**: _Out-of-distribution Analysis and Robustness of Deep Neural Networks_
 - 15:10-15:20 -- Coffee Break
 - 15:20-16:20 -- Lightning Talks (10 minutes each)
   - 15:20-15:30 -- **Arghavan Sanei**: _Characterizing Usability Issue Discussions in Open Source Software Projects_
   - 15:30-15:40 -- **Seif Abukhalaf**: _On Codex Prompt Engineering for OCL Generation: An Empirical Study_
-  - 15:40-15:50 -- **Zhenyu**/**Yassir**: _Machine learning robustness by likelihood_
-  - 15:50-16:00 -- **Mahta**: _On the role of creativity in software engineering tasks_
+  - 15:40-15:50 -- **Arghavan Moradidakhel**: _GitHub Copilot AI Pair Programmer: Asset or Liability_
+  - 15:50-16:00 -- **Mahta**: _On the Role of Creativity in Software Engineering Tasks_
   - 16:00-16:10 -- **Tambon Florian**: _Mutation Testing in Deep Reinforcement Learning_
   - 16:10-16:20 -- **Xingfang Wu**: _Representation Learning for Heterogeneous Software-related Textual Data_
 - 16:20-16:30 -- Coffee Break
