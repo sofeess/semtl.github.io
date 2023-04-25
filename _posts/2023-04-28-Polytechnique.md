@@ -28,7 +28,7 @@ Please RSVP using [this spreadsheet](https://docs.google.com/spreadsheets/d/1fG5
   - 15:40-15:50 -- **Arghavan Moradidakhel**: _GitHub Copilot AI Pair Programmer: Asset or Liability_
   - 15:50-16:00 -- **Mahta**: _On the Role of Creativity in Software Engineering Tasks_
   - 16:00-16:10 -- **Tambon Florian**: _Mutation Testing in Deep Reinforcement Learning_
-  - 16:10-16:20 -- **Xingfang Wu**: _Representation Learning for Heterogeneous Software-related Textual Data_
+  - 16:10-16:20 -- **Xingfang Wu**: _Learning Representation for Improving Technical Forum Organization_
 - 16:20-16:30 -- Coffee Break
 - 16:30-17:00 -- Open Discussion
 - 17:00 onwards -- Social Event - (nearby the Cote-Des-Neiges metro station)
