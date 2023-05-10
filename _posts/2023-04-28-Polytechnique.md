@@ -18,7 +18,7 @@ It will take place at **Polytechnique Montréal, Pavillons Lassonde
 
 Please RSVP using [this spreadsheet](https://docs.google.com/spreadsheets/d/1fG5uRQbvPufsGLUAnelnuzTSneUVe6L1RDAD7ZTWeIE/edit#gid=2050364703).
 
-### (Tentative) Program
+### Program
 
 - 14:30-15:10 -- Research Talk by **Ettore Merlo**: _Out-of-distribution Analysis and Robustness of Deep Neural Networks_
 - 15:10-15:20 -- Coffee Break
