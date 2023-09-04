@@ -63,13 +63,17 @@
   
 - name: Guéhéneuc, Yann-Gaël
   visible: true
+  university: Concordia University
   img: http://www.yann-gael.gueheneuc.net/Work/Info/Files/YannGaelGueheneuc.jpg
   url: http://www.yann-gael.gueheneuc.net/Work/Info/
+  keywords: Software quality, Patterns, Re-engineering, IoT
 
 - name: Hamou-Lhadj, Wahab
   visible: true
+  university: Concordia University
   img: https://users.encs.concordia.ca/~abdelw/assets/img/main/50.jpg
   url: http://www.ece.concordia.ca/~abdelw
+  keywords: AIOps, Software Tracing and Logging, Anomaly Detection, Software Engineering, Model-Driven Engineering
 
 - name: Oakes, Bentley James
   visible: true
