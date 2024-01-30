@@ -23,8 +23,7 @@ Please RSVP using [this spreadsheet](https://docs.google.com/spreadsheets/d/1fG5
 
 The program is still being created and will be set up a few weeks before the event.
 
-* 09:30 - 10:15&nbsp;&nbsp;&nbsp;&nbsp;Keynote 
-  * **Software Maintenance end Evolution Research: Before and After LLMs**, Diego Elias Costa
+* 09:30 - 10:15&nbsp;&nbsp;&nbsp;&nbsp; Keynote presentation 
 * 10:15 - 10:30&nbsp;&nbsp;&nbsp;&nbsp; Coffee Break
 * 10:30 - 11:30&nbsp;&nbsp;&nbsp;&nbsp; Student presentations
 * 11:30 - 12:00&nbsp;&nbsp;&nbsp;&nbsp; Group Discussion
@@ -34,4 +33,4 @@ The program is still being created and will be set up a few weeks before the eve
 
 SEMTL will take place in the Concordia GSW Campus Downtown, in the Department of Computer Science and Software Engineering, located in the ER Building at 2155 Guy Street. 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d539.0086130271673!2d-73.56918846416764!3d45.50946524975104!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc91a4ea071458b%3A0x46ebaae3c85efeb0!2sCoeur%20des%20sciences!5e0!3m2!1sen!2sca!4v1698240717294!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2796.689642108859!2d-73.5801319!3d45.4961942!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc91a6af0639f6b%3A0xce9a9c76d4f7bd6!2s2155%20Guy%20St%2C%20Montreal%2C%20QC%20H3H%202L9!5e0!3m2!1sen!2sca!4v1706585546251!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
