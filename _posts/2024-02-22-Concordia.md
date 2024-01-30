@@ -23,7 +23,7 @@ Please RSVP using [this spreadsheet](https://docs.google.com/spreadsheets/d/1fG5
 
 The program is still being created and will be set up a few weeks before the event.
 
-* 09:30 - 10:15&nbsp;&nbsp;&nbsp;&nbsp; Keynote presentation 
+* 09:30 - 10:15&nbsp;&nbsp;&nbsp;&nbsp; Keynote presentation by Dr. Benoit Baudry.
 * 10:15 - 10:30&nbsp;&nbsp;&nbsp;&nbsp; Coffee Break
 * 10:30 - 11:30&nbsp;&nbsp;&nbsp;&nbsp; Student presentations
 * 11:30 - 12:00&nbsp;&nbsp;&nbsp;&nbsp; Group Discussion
