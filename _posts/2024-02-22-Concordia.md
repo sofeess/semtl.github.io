@@ -23,11 +23,15 @@ Please RSVP using [this spreadsheet](https://docs.google.com/spreadsheets/d/1fG5
 
 The program is still being created and will be set up a few weeks before the event.
 
-* 09:30 - 10:15&nbsp;&nbsp;&nbsp;&nbsp; Keynote presentation by Dr. Benoit Baudry.
+* 09:30 - 10:15&nbsp;&nbsp;&nbsp;&nbsp; Keynote presentation by Dr. Benoit Baudry: Title: Hardening Software Supply Chains
 * 10:15 - 10:30&nbsp;&nbsp;&nbsp;&nbsp; Coffee Break
 * 10:30 - 11:30&nbsp;&nbsp;&nbsp;&nbsp; Student presentations
 * 11:30 - 12:00&nbsp;&nbsp;&nbsp;&nbsp; Group Discussion
 * 12:00 - 12:15&nbsp;&nbsp;&nbsp;&nbsp; Wrap-up
+
+### About the keynote speaker
+
+Bio: Benoit Baudry is a Professor in Software Technology at the Université de Montréal. His research focuses on automated software engineering, software diversity and software testing. He favors exploring code execution over code on disk. He received his PhD in 2003 from the University of Rennes, France. He was a research scientist at INRIA (France) from 2004 to 2017, and a Professor at the KTH Royal Institute of Technology (Sweden) from 2017 to 2023.
 
 ### Localisation
 
