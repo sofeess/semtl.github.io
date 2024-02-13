@@ -23,11 +23,17 @@ Please RSVP using [this spreadsheet](https://docs.google.com/spreadsheets/d/1fG5
 
 The program is still being created and will be set up a few weeks before the event.
 
-* 09:30 - 10:15&nbsp;&nbsp;&nbsp;&nbsp; Keynote presentation by Dr. Benoit Baudry: Title: Hardening Software Supply Chains
-* 10:15 - 10:30&nbsp;&nbsp;&nbsp;&nbsp; Coffee Break
-* 10:30 - 11:30&nbsp;&nbsp;&nbsp;&nbsp; Student presentations
-* 11:30 - 12:00&nbsp;&nbsp;&nbsp;&nbsp; Group Discussion
-* 12:00 - 12:15&nbsp;&nbsp;&nbsp;&nbsp; Wrap-up
+* 09:30 - 10:30&nbsp;&nbsp;&nbsp;&nbsp; Keynote presentation
+  * Dr. Benoit Baudry will present his talk entitled **Hardening Software Supply Chains**
+* 10:30 - 10:45&nbsp;&nbsp;&nbsp;&nbsp; Coffee Break
+* 10:45 - 12:00&nbsp;&nbsp;&nbsp;&nbsp; Student presentations (10 minutes presentation + 5 minutes Q&A)
+  *  Pouria Alikhanifard: **Refactoring and Semantic Aware Abstract Syntax Tree Differencing** (supervised by Nikos Tsantalis).
+  * Victor Veloso: **An empirically validated catalogue of test-specific refactorings** (supervised by Nikos Tsantalis).
+  * Jean Baptiste Minani: **Practical Guidance and an Automated Approach for IoT Systems Testing** (supervised by Yann-Gaël Guéhéneuc).
+  * Imen Trabelsi: **Large Language Models in Software Engineering for the Migration of Legacy Systems** (supervised by Yann-Gaël Guéhéneuc). 
+  * Samaneh Almir: **Predicting the Lifetime of Flaky Tests on Chrome** (supervised by Peter Rigby).
+* 12:00 - 12:30&nbsp;&nbsp;&nbsp;&nbsp; Group Discussion & Wrap-up
+
 
 ### About the keynote speaker
 
