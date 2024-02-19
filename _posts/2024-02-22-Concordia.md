@@ -33,11 +33,15 @@ The program is still being created and will be set up a few weeks before the eve
   * Imen Trabelsi: **Large Language Models in Software Engineering for the Migration of Legacy Systems** (supervised by Yann-Gaël Guéhéneuc). 
   * Samaneh Almir: **Predicting the Lifetime of Flaky Tests on Chrome** (supervised by Peter Rigby).
 * 12:00 - 12:30&nbsp;&nbsp;&nbsp;&nbsp; Group Discussion & Wrap-up
-
+  * Discussion on creating a formal structure for the SEMTL (proposed by Houari)  
 
 ### About the keynote speaker
 
 Bio: Benoit Baudry is a Professor in Software Technology at the Université de Montréal. His research focuses on automated software engineering, software diversity and software testing. He favors exploring code execution over code on disk. He received his PhD in 2003 from the University of Rennes, France. He was a research scientist at INRIA (France) from 2004 to 2017, and a Professor at the KTH Royal Institute of Technology (Sweden) from 2017 to 2023.
+
+### Social event
+
+We will not be able to organize a single social event for all attendees, but we do encourage groups to meet and go to the nearby restaurants. The Crescent Street is booming with options, check out some of the options [here](https://www.crescentmontreal.com/marchands-merchants). 
 
 ### Localisation
 
