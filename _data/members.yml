@@ -2,9 +2,9 @@
   visible: true
   img: https://www.cs.mcgill.ca/~mschie3/assets/img/max.png
   university: McGill University
-  github: kartoffelquadrat
-  url: https://www.cs.mcgill.ca/~mschie3/
-  keywords: software engineering, model-driven engineering, RESTful services
+  github: m5c
+  url: https://m5c.github.io/
+  keywords: API Design & Security, RESTful Services, Security Protocols, Empirical Research Methods
 
 - name: Mosser, Sébastien
   visible: false
