@@ -97,3 +97,10 @@
   img: https://diegoeliascosta.github.io/assets/images/diegoeliascosta.jpeg
   url: https://diegoeliascosta.github.io
   keywords: software maintenance and evolution, dependency management, performance engineering, SE4AI
+  
+- name: El Boussaidi, Ghizlane
+  visible: true
+  university: École de technologie supérieure
+  img: https://www.etsmtl.ca/uploads/_1100xAUTO_fit_center-center_70_none/P20210512-ElBoussaidi-Ghizlane-002.jpg
+  url: https://www.etsmtl.ca/programmes-et-formations/corps-enseignant/gelboussaidi
+  keywords: Software design, software migration, requirement engineering, model-driven engineering, safety-critical systems
