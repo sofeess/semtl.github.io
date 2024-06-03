@@ -105,7 +105,14 @@
   
 - name: El Boussaidi, Ghizlane
   visible: true
-  university: École de technologie supérieure
+  university: École de Technologie Supérieure (ÉTS)
   img: https://www.etsmtl.ca/uploads/_1100xAUTO_fit_center-center_70_none/P20210512-ElBoussaidi-Ghizlane-002.jpg
   url: https://www.etsmtl.ca/programmes-et-formations/corps-enseignant/gelboussaidi
   keywords: Software design, software migration, requirement engineering, model-driven engineering, safety-critical systems
+
+  name: Moha, Naouel
+  visible: true
+  university: École de Technologie Supérieure (ÉTS)
+  img: https://www.etsmtl.ca/uploads/_1100xAUTO_fit_center-center_70_none/P20201027-Moha-Naouel-001.jpg
+  url: https://www.etsmtl.ca/en/professors/nmoha
+  keywords: Software quality, maintenance and development, Software systems analysis, Object-oriented, service and mobile systems, Anti-patterns and design patterns, Software refactoring, Meta-modeling, Internet of Things (IoT)
